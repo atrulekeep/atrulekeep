@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Bei Jing
+- 🌱 I’m currently learning architect
+- 👯 I’m looking to collaborate on Remote working
+- 🤔 I’m looking for help with Remote working
+- 💬 Ask me about font、JavaScript、Vue、React、node、electron、uni-app
+- 📫 How to reach me(WeChat): atrule5168
+- 😄 Pronouns: Freedom On The Way
+- ⚡ Fun fact: done is better than perfect !!!
 
 <!--
 **atrulekeep/atrulekeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
